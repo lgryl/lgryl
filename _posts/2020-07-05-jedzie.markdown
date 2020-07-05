@@ -3,7 +3,7 @@ title: "Jedzie?"
 layout: post
 date: 2020-07-05 09:00
 tag: project
-image: /assets/images/markdown.jpg
+image: /assets/images/jedzie.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -12,24 +12,20 @@ category: project
 author: johndoe
 externalLink: false
 ---
+{:refdef: style="text-align: center;"}
+![Screenshot](/assets/images/jedzie-screenshot.jpg)
+{: refdef}
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+Jedzie? is an iOS application for tracking trams and buses in Krakow, Poland.
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+What have I learned?
+
+- MapKit
+- AdMob
+- StoreKit and In App Purchases
+
+---
+
+[Check it out](https://apps.apple.com/us/app/jedzie/id1229251580) here.
