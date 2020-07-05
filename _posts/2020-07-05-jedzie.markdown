@@ -13,7 +13,7 @@ author: johndoe
 externalLink: false
 ---
 {:refdef: style="text-align: center;"}
-![Screenshot](/assets/images/jedzie-screenshot.jpg)
+![Screenshot]({{ site.url }}/{{"/assets/images/jedzie-screenshot.jpg"}})
 {: refdef}
 
 Jedzie? is an iOS application for tracking trams and buses in Krakow, Poland.
